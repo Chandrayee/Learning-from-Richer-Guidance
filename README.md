@@ -15,6 +15,8 @@ The programs use pywren to parallelize the runs in python. More information abou
 
 Modules and packages necessary for running the above codes are world.py, utils.py, visual.py and pywren
 
+Most of the plots in the paper are generated using allplots.py
+
 ## Running
 Run baseline.py and cirlf_noeps.py separately for simulation experiments
 
