@@ -19,4 +19,4 @@ Modules and packages necessary for running the above codes are world.py, utils.p
 Run baseline.py and cirlf_noeps.py separately for simulation experiments
 
 Run userstudy1.py -m [method 1 or 2 or 3] for running one user study where method 1 is 20 baseline queries,
-method 2 is 20 cirlf queries and method 3 is the validation part 
+method 2 is 20 comparison+feature queries and method 3 is the validation part (more details on validation in the paper)
